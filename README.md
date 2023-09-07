@@ -49,8 +49,8 @@ bash start
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- Developer :[AAYUSH](https://t.me/Awsome_Aayush)
-- Test Bot :[❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт](https://t.me/Jasica_Musicbot)
+- Developer : [AAYUSH](https://t.me/Awsome_Aayush)
+- Test Bot : [❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт](https://t.me/Jasica_Musicbot)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/Awsome_Aayush"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/JASICA_SUPPORT"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/JASICA_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Awsome_Aayush"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
