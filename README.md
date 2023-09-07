@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> 𓆩❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт𓆪
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
+<p align="center"><a href="https://t.me/JASICA_SUPPORT"><img src="https://graph.org/file/9ef6c062d2bc2fb22e971.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
