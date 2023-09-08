@@ -52,8 +52,6 @@ bash start
 - Developer : [AAYUSH](https://t.me/Awsome_Aayush)
 - Test Bot : [❛- 𝙅𝘼𝙎𝙄𝘾𝘼 мυѕι¢ вσт](https://t.me/Jasica_Musicbot)
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
